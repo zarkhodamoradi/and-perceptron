@@ -2,8 +2,7 @@
 __pycache__/
 *.pyc
 
-# Matplotlib plots folder
-plots/
+
 
 # IDE or editor files
 .vscode/
