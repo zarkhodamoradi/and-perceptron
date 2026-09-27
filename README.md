@@ -11,3 +11,4 @@ The implementation is in **Python** using **NumPy** and **Matplotlib**, and it v
 | ![Epoch 4](plots/epoch_4.png) | ![Epoch 5](plots/epoch_5.png) | ![Epoch 6](plots/epoch_6.png) | ![Epoch 8](plots/epoch_8.png) | ![Epoch 9](plots/epoch_9.png) |
 
 This project is ideal for **educational purposes**, helping beginners see how weights evolve during training and how the perceptron forms a simple classification boundary.
+
